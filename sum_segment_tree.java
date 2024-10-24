@@ -1,5 +1,5 @@
 public class Segment {
-    int[] node;
+    private int[] node;
     Segment(int n){
         node=new int[4*n];
     }
