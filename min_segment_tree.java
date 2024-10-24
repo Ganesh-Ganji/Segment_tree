@@ -1,5 +1,5 @@
 public class Segment_tree{
-    int[] node;
+    private int[] node;
     Segment_tree(int n){
         node=new int[4*n];
     }
